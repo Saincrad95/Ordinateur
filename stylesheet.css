@@ -1,12 +1,39 @@
 html {
-  background-color: #317393;
+	background-color: #317393;
 }
 
 body {
-	width: 99%;
+	width: 100%;
 	text-align: center;
+	padding: 0;
+	margin: 0;
 }
 
-h1 {
-	
+.navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+.navbar li {
+	display: inline;
+	float: left;
+}
+
+.navbar li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.navbar li a:hover {
+	background-color: #111;
+}
+
+.active {
+  background-color: #825acd;
 }
