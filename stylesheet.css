@@ -7,6 +7,7 @@ body {
 	text-align: center;
 	padding: 0;
 	margin: 0;
+	color: white;
 }
 
 .navbar ul {
@@ -31,9 +32,22 @@ body {
 }
 
 .navbar li a:hover {
-	background-color: #111;
+	background-color: #825acd;
 }
 
 .active {
-  background-color: #825acd;
+  background-color: #317393;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: #eda4eb;
+}
+
+h1 {
+	color: #bababa;
+	font-size: 3em;
 }
