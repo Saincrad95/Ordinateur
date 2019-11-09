@@ -51,3 +51,20 @@ h1 {
 	color: #bababa;
 	font-size: 3em;
 }
+
+table {
+	width: 100%;
+	border: 0.3em solid black;
+}
+
+th, td {
+  border: 0.15em solid black;
+}
+
+table, tr, td {
+	border-collapse: collapse;
+}
+
+tr {
+	height: 3em;
+}
