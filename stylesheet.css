@@ -36,7 +36,7 @@ body {
 	background-color: #825acd;
 }
 
-li a .active {
+.active li a {
   background-color: white;
   color: black;
 }
