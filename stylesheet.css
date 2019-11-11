@@ -15,7 +15,7 @@ body {
 
 a { color: white; }
 
-body a {
+.content a {
 	color: black;	
 }
 
@@ -37,14 +37,13 @@ body a {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-	color: white;
 }
 
 .navbar li a:hover {
 	background-color: #825acd;
 }
 
-body .active {
+.active {
   background-color: white;
   color: #317393;
 }
