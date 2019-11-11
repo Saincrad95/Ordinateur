@@ -44,8 +44,8 @@ a { color: white; }
 }
 
 .active {
-  background-color: white;
-  color: #317393;
+  	background-color: white;
+  	color: #317393;
 }
 
 a:hover {
@@ -60,11 +60,11 @@ h1 {
 table {
 	width: 100%;
 	border: 0.3em solid black;
-	margin: 0.3em 0.3em 0.3em 0.3em;
+	margin: auto;
 }
 
 th, td {
-  border: 0.15em solid black;
+  	border: 0.15em solid black;
 }
 
 table, tr, td {
