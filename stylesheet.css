@@ -48,6 +48,10 @@ a:hover {
 	color: #eda4eb;
 }
 
+body a {
+	color: black;	
+}
+
 h1 {
 	color: #bababa;
 	font-size: 3em;
