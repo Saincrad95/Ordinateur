@@ -26,7 +26,7 @@ body {
 
 .navbar li a {
 	display: block;
-	color: black;
+	color: white;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -37,7 +37,8 @@ body {
 }
 
 .active {
-  background-color: #317393;
+  background-color: white;
+  color: black;
 }
 
 a {
