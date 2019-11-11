@@ -41,6 +41,11 @@ body {
   color: black;
 }
 
+a .active {
+  background-color: white;
+  color: black;
+}
+
 a {
 	color: black;
 }
