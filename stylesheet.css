@@ -26,7 +26,6 @@ body {
 
 .navbar li a {
 	display: block;
-	color: white;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -39,10 +38,6 @@ body {
 .active {
   background-color: white;
   color: black;
-}
-
-a {
-	color: black;
 }
 
 a:hover {
