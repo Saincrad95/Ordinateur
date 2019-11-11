@@ -19,7 +19,8 @@ a {
 }
 
 .content a {
-	color: #317393;	
+	color: #317393;
+	text-decoration: underline overline;
 }
 
 .navbar ul {
