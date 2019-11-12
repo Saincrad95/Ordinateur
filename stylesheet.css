@@ -20,7 +20,7 @@ a {
 
 .content a {
 	color: #317393;
-	text-decoration: underline overline;
+	text-decoration: underline;
 }
 
 .navbar ul {
