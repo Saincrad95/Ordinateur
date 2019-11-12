@@ -62,6 +62,7 @@ h1 {
 }
 
 table {
+	overflow-x: auto;
 	width: 95%;
 	border: 0.3em solid black;
 	margin: auto;
